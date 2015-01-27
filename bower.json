@@ -19,6 +19,7 @@
     "core-toolbar": "Polymer/core-toolbar#~0.5.4",
     "paper-icon-button": "Polymer/paper-icon-button#~0.5.4",
     "paper-slider": "Polymer/paper-slider#~0.5.4",
-    "font-roboto": "Polymer/font-roboto#~0.5.4"
+    "font-roboto": "Polymer/font-roboto#~0.5.4",
+    "paper-elements": "Polymer/paper-elements#~0.5.4"
   }
 }
