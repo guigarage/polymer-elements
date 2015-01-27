@@ -18,6 +18,7 @@
     "core-label": "Polymer/core-label#~0.5.4",
     "core-toolbar": "Polymer/core-toolbar#~0.5.4",
     "paper-icon-button": "Polymer/paper-icon-button#~0.5.4",
-    "paper-slider": "Polymer/paper-slider#~0.5.4"
+    "paper-slider": "Polymer/paper-slider#~0.5.4",
+    "font-roboto": "Polymer/font-roboto#~0.5.4"
   }
 }
